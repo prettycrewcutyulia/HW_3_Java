@@ -1,0 +1,24 @@
+{
+     "equipment": [
+          {
+               "equip_type": 1,
+               "equip_name": "Салатница \"Салатик\"",
+               "equip_active": true
+          },
+          {
+               "equip_type": 1,
+               "equip_name": "Салатница \"Простор мысли\"",
+               "equip_active": false
+          },
+          {
+               "equip_type": 2,
+               "equip_name": "Аквариум \"Стёклышко\"",
+               "equip_active": true
+          },
+          {
+               "equip_type": 3,
+               "equip_name": "Советский холодос \"Коммунарка\"",
+               "equip_active": true
+          }
+     ]
+}

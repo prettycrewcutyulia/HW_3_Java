@@ -1,0 +1,16 @@
+{
+    "operation_types": [
+        {
+            "oper_type_id": 1,
+            "oper_type_name": "нарезка овощей"
+        },
+        {
+            "oper_type_id": 2,
+            "oper_type_name": "выловить селёдку"
+        },
+        {
+            "oper_type_id": 3,
+            "oper_type_name": "достать банку колы из холодильника"
+        }
+    ]
+}

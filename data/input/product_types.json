@@ -1,0 +1,39 @@
+{
+     "product_types": 
+                       [{
+                           "prod_type_id": 11,
+                           "prod_type_name": "Плавающая селедка",
+                           "prod_is_food": true
+                       },
+                       {
+                            "prod_type_id": 18,
+                            "prod_type_name": "Шуба для селедки",
+                            "prod_is_food": true
+                       },
+                       {
+                            "prod_type_id": 22,
+                            "prod_type_name": "Банка колы 0.5",
+                            "prod_is_food": true
+                       },
+                       {
+                            "prod_type_id": 23,
+                            "prod_type_name": "Колбаска",
+                            "prod_is_food": true
+                       },
+                       {
+                            "prod_type_id": 24,
+                            "prod_type_name": "Зеленый горошек",
+                            "prod_is_food": true
+                       },
+                       {
+                            "prod_type_id": 12,
+                            "prod_type_name": "Майонез",
+                            "prod_is_food": false
+                       },
+                       {
+                            "prod_type_id": 19,
+                            "prod_type_name": "Набор несгнивших овощей",
+                            "prod_is_food": false
+                       }]
+   }
+   

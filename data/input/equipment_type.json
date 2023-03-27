@@ -1,0 +1,16 @@
+{
+   "equipment_type": [
+      {
+         "equip_type_id": 1,
+         "equip_type_name": "Тарелка"
+      },
+      {
+         "equip_type_id": 2,
+         "equip_type_name": "Аквариум"
+      },
+      {
+         "equip_type_id": 3,
+         "equip_type_name": "Холодильник"
+      }
+   ]
+}

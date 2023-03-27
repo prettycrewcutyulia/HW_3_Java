@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "prod_item_id": 191,
+      "prod_item_type": 11,
+      "prod_item_name": "Плавающая селедка",
+      "prod_item_company": "Море",
+      "prod_item_unit": "штука",
+      "prod_item_quantity": 150,
+      "prod_item_cost": 190,
+      "prod_item_delivered": "2023-01-12T08:12:36",
+      "prod_item_valid_until": "2023-12-31T23:59:59"
+    },
+    {
+      "prod_item_id": 172,
+      "prod_item_type": 18,
+      "prod_item_name": "Шуба для селедки",
+      "prod_item_company": "Меха",
+      "prod_item_unit": "штука",
+      "prod_item_quantity": 666,
+      "prod_item_cost": 1.5,
+      "prod_item_delivered": "2023-01-15T08:10:36",
+      "prod_item_valid_until": "2024-12-31T23:59:59"
+    },
+    {
+      "prod_item_id": 132,
+      "prod_item_type": 22,
+      "prod_item_name": "Банка колы 0.5",
+      "prod_item_company": "Coca-Cola",
+      "prod_item_unit": "штука",
+      "prod_item_quantity": 50,
+      "prod_item_cost": 900,
+      "prod_item_delivered": "2023-01-11T09:22:36",
+      "prod_item_valid_until": "2025-12-31T23:59:59"
+    },
+    {
+      "prod_item_id": 213,
+      "prod_item_type": 23,
+      "prod_item_name": "Колбаска",
+      "prod_item_company": "OAO Сосиска",
+      "prod_item_unit": "кг.",
+      "prod_item_quantity": 250,
+      "prod_item_cost": 0.4,
+      "prod_item_delivered": "2023-01-11T09:19:31",
+      "prod_item_valid_until": "2025-12-31T23:59:59"
+    },
+    {
+      "prod_item_id": 251,
+      "prod_item_type": 24,
+      "prod_item_name": "Зеленый горошек",
+      "prod_item_company": "ИП Бабушка",
+      "prod_item_unit": "кг",
+      "prod_item_quantity": 130.10,
+      "prod_item_cost": 11.45,
+      "prod_item_delivered": "2023-01-11T09:19:31",
+      "prod_item_valid_until": "2025-12-31T23:59:59"
+    },
+    {
+      "prod_item_id": 133,
+      "prod_item_type": 12,
+      "prod_item_name": "Майонез",
+      "prod_item_company": "OAO Кетчуп",
+      "prod_item_unit": "л.",
+      "prod_item_quantity": 105,
+      "prod_item_cost": 0.45,
+      "prod_item_delivered": "2023-01-12T08:12:36",
+      "prod_item_valid_until": "2026-12-31T23:59:59"
+    },
+    {
+      "prod_item_id": 139,
+      "prod_item_type": 19,
+      "prod_item_name": "Набор несгнивших овощей",
+      "prod_item_company": "АО \"За бесплатно и уксус сладкий\"",
+      "prod_item_unit": "кг.",
+      "prod_item_quantity": 12874,
+      "prod_item_cost": 0.19,
+      "prod_item_delivered": "2023-01-12T08:10:36",
+      "prod_item_valid_until": "2026-12-31T23:59:59"
+    }
+  ]
+}

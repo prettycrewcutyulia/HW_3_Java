@@ -20,7 +20,9 @@ class TimeSheduler(BaseScheduler):
         agent.time = self.time
         
     def step(self):
-        super().step()
+        for agent in self.agent_buffer(shuffled=False):
+            agent.step()
+        self.steps += 1
         self.time = datetime.combine(self.time.date(), self.time.time()) + timedelta(seconds=self.time_step_seconds)
         if self.real_time_speed_up > 0:
             sleep(self.time_step_seconds / self.real_time_speed_up)

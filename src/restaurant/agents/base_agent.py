@@ -47,10 +47,3 @@ class BaseAgent(Agent):
     def resume(self):
         if event.sender == self:
             self.model.schedule.add(self)
-
-    def __del__(self):
-        try:
-            logger2.info(f'Агент {self.unique_id} класса {self.__class__.__name__} удален')
-        except:
-            pass
-        del self
